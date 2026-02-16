@@ -1,1 +1,4 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/699851.png", [DE] ZDF HD
+http://line.liondnscloud.ru:80/live/bcfccba3/165f23a0/699851.ts
+
